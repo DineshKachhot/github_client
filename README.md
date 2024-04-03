@@ -28,6 +28,8 @@ npx expo start
 - TanStack Query
 - Redux
 - React Native Navigation
+- Pagination
+- Infinite Scroll
 
 ## Preview
 
