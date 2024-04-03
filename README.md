@@ -8,7 +8,7 @@ Github Client is a mobile app developed in React Native (expo).
 
 Clone this repo in your local
 
-Install dependancies
+Install dependencies
 
 ```bash
 npx expo install
